@@ -96,7 +96,7 @@ class Question {
     this.category = allquestions[index].category;
     this.correct_answer = allquestions[index].correct_answer;
     this.incorrect_answers = allquestions[index].incorrect_answers;
-    console.log(this.correct_answer);
+    // console.log(this.correct_answer);
 
     this.flag = false;
   }
